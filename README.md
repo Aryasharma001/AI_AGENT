@@ -62,28 +62,32 @@ LOG_DIR=./logs
 
 ```
 ai-agent/
-├── app.py                 # Main Streamlit application
+├── app.py                 
 ├── src/
 │   ├── search/
 │   │   ├── __init__.py
-│   │   ├── search.py     # Web search implementation
-│   │   └── cache.py      # Search result caching
+│   │   ├── search.py     
+│   │   └── cache.py      
 │   ├── llm/
 │   │   ├── __init__.py
-│   │   └── processor.py  # LLM processing logic
+│   │   └── processor.py  
 │   ├── data/
 │   │   ├── __init__.py
-│   │   ├── loader.py     # Data loading utilities
-│   │   └── exporter.py   # Results export functionality
+│   │   ├── loader.py     
+│   │   └── exporter.py  
 │   └── utils/
 │       ├── __init__.py
-│       ├── logger.py     # Logging configuration
-│       └── rate_limit.py # Rate limiting implementation
-├── cache/                # Search cache directory
-├── logs/                 # Application logs
+│       ├── logger.py     
+│       └── rate_limit.py 
+├── cache/                
+├── logs/                 
 ├── tests/               
 └── requirements.txt
 ```
+## Demo Video
+
+[Watch the demo on Loom](https://www.loom.com/share/3892d630cff44e1284a9181e8aa1a2c9?sid=39118729-7d47-4d05-a723-aa90885c3d32)
+
 
 ## ⚙️ Configuration
 
