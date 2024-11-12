@@ -1,0 +1,54 @@
+2024-11-12 15:24:29,180 - INFO - Processing 1/2: NK Securities with prompt: Get me the email address of {company}
+2024-11-12 15:24:29,196 - INFO - Cache hit for NK Securities - email
+2024-11-12 15:24:35,217 - INFO - Processing 2/2: QuantBox Research Pvt Ltd with prompt: Get me the email address of {company}
+2024-11-12 15:24:35,220 - INFO - Cache hit for QuantBox Research Pvt Ltd - email
+2024-11-12 15:24:35,229 - ERROR - Processing error: Progress Value has invalid value [0.0, 1.0]: 5.000000
+2024-11-12 15:27:57,225 - ERROR - Processing error: cannot import name 'LLMProcessor' from 'models.llm_processing' (C:\Users\ARYA SHARMA\ai_agent_project\models\llm_processing.py)
+2024-11-12 15:29:18,871 - INFO - Processing 1/2: NK Securities with prompt: Get me the email address of {company}
+2024-11-12 15:29:18,871 - INFO - Cache hit for NK Securities - email
+2024-11-12 15:29:24,888 - INFO - Processing 2/2: QuantBox Research Pvt Ltd with prompt: Get me the email address of {company}
+2024-11-12 15:29:24,888 - INFO - Cache hit for QuantBox Research Pvt Ltd - email
+2024-11-12 15:29:24,888 - ERROR - Processing error: 'LLMExtractor' object has no attribute 'process_results'
+2024-11-12 15:32:50,521 - INFO - Processing 1/2: NK Securities with prompt: Get me the email address of {company}
+2024-11-12 15:32:50,527 - INFO - Cache hit for NK Securities - email
+2024-11-12 15:32:56,536 - INFO - Processing 2/2: QuantBox Research Pvt Ltd with prompt: Get me the email address of {company}
+2024-11-12 15:32:56,539 - INFO - Cache hit for QuantBox Research Pvt Ltd - email
+2024-11-12 15:32:56,541 - ERROR - Processing error: LLMExtractor.process_results() takes 2 positional arguments but 3 were given
+2024-11-12 15:34:46,197 - INFO - Processing 1/2: NK Securities with prompt: Get me the email address of {company}
+2024-11-12 15:34:46,197 - INFO - Cache hit for NK Securities - email
+2024-11-12 15:34:52,213 - INFO - Processing 2/2: QuantBox Research Pvt Ltd with prompt: Get me the email address of {company}
+2024-11-12 15:34:52,213 - INFO - Cache hit for QuantBox Research Pvt Ltd - email
+2024-11-12 15:34:52,217 - ERROR - Processing error: LLMExtractor.process_results() takes 2 positional arguments but 3 were given
+2024-11-12 15:36:55,986 - INFO - Processing 1/2: NK Securities with prompt: Get me the email address of {company}
+2024-11-12 15:36:55,987 - INFO - Cache hit for NK Securities - email
+2024-11-12 15:37:02,000 - INFO - Processing 2/2: QuantBox Research Pvt Ltd with prompt: Get me the email address of {company}
+2024-11-12 15:37:02,002 - INFO - Cache hit for QuantBox Research Pvt Ltd - email
+2024-11-12 15:37:02,004 - ERROR - Processing error: LLMExtractor.process_results() takes 1 positional argument but 2 were given
+2024-11-12 20:17:34,886 - INFO - Processing 1/2: NK Securities with prompt: Get me the email address of {company}
+2024-11-12 20:17:34,891 - INFO - Cache hit for NK Securities - email
+2024-11-12 20:17:40,901 - INFO - Processing 2/2: QuantBox Research Pvt Ltd with prompt: Get me the email address of {company}
+2024-11-12 20:17:40,902 - INFO - Cache hit for QuantBox Research Pvt Ltd - email
+2024-11-12 20:17:41,834 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 20:17:41,836 - ERROR - Error parsing LLM response for NK Securities: Extra data: line 7 column 1 (char 143)
+2024-11-12 20:17:42,738 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 20:17:42,738 - ERROR - Error parsing LLM response for QuantBox Research Pvt Ltd: Extra data: line 7 column 1 (char 139)
+2024-11-12 20:30:16,958 - INFO - Processing 1/2: NK Securities with prompt: Get me the email address of {company}
+2024-11-12 20:30:16,959 - INFO - Cache hit for NK Securities - email
+2024-11-12 20:30:22,977 - INFO - Processing 2/2: QuantBox Research Pvt Ltd with prompt: Get me the email address of {company}
+2024-11-12 20:30:22,979 - INFO - Cache hit for QuantBox Research Pvt Ltd - email
+2024-11-12 20:30:24,445 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 20:30:24,452 - ERROR - Error parsing LLM response for NK Securities: Extra data: line 7 column 1 (char 143)
+2024-11-12 20:30:25,034 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 20:30:25,034 - ERROR - Error parsing LLM response for QuantBox Research Pvt Ltd: Extra data: line 7 column 1 (char 139)
+2024-11-12 20:40:49,419 - INFO - Processing 1/2: NK Securities with prompt: Get me the email address of {company}
+2024-11-12 20:40:49,454 - INFO - Cache hit for NK Securities - email
+2024-11-12 20:40:55,461 - INFO - Processing 2/2: QuantBox Research Pvt Ltd with prompt: Get me the email address of {company}
+2024-11-12 20:40:55,461 - INFO - Cache hit for QuantBox Research Pvt Ltd - email
+2024-11-12 20:40:56,227 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 20:40:56,742 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 20:41:39,888 - INFO - Processing 1/2: NK Securities with prompt: Get me the email address of {company}
+2024-11-12 20:41:39,897 - INFO - Cache hit for NK Securities - email
+2024-11-12 20:41:45,904 - INFO - Processing 2/2: QuantBox Research Pvt Ltd with prompt: Get me the email address of {company}
+2024-11-12 20:41:45,904 - INFO - Cache hit for QuantBox Research Pvt Ltd - email
+2024-11-12 20:41:46,626 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 20:41:47,243 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
