@@ -29,8 +29,8 @@ An intelligent agent that performs automated web searches and extracts structure
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-agent.git
-cd ai-agent
+git clone https://github.com/Aryasharma001/AI_AGENT.git
+cd AI_AGENT
 ```
 
 2. Create and activate a virtual environment:
@@ -54,8 +54,6 @@ Edit `.env` file with your API keys:
 GROQ_API_KEY=your_groq_api_key
 SERPAPI_KEY=your_serpapi_key
 GOOGLE_SHEETS_CREDENTIALS=path_to_credentials.json
-CACHE_DIR=./cache
-LOG_DIR=./logs
 ```
 
 ### Project Structure
